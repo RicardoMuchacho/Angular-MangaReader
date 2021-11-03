@@ -1,0 +1,7 @@
+{
+  "name": "Angular_MangaReader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

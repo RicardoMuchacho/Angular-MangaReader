@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Angular_MangaReader",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
